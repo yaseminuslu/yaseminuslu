@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasemin USLU</h1>
 
-- 🔭 I’m currently working on **Java - Spring**
+- 🔭 I’m currently working on **Java - Spring - Test Automation - Python**
 
 - 🌱 I’m currently learning **Python - Deep Learning**
 
